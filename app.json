@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "TodoApp",
+    "name": "TodoApp ",
     "slug": "TodoApp",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "To Do App list using React Native Expo",
+    "githubUrl": "https://github.com/JavierCantoH/reactNative_TodoApp"
   }
 }
